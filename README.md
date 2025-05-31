@@ -20,7 +20,7 @@ A clean, journal app built with Electron and Javascript. Write and save journal 
 
 ```bash
 git clone https://github.com/Jesus-Retr0/Markdown-based-Journal-App.git
-cd markdown-journal-app
+cd markdown-based-journal-app
 npm install
 npm install electron --save-dev
 npm start
